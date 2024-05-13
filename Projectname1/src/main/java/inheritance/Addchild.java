@@ -25,7 +25,6 @@ public class Addchild extends Addparent{
 	public static void main(String[] args) {
 		Addchild obj=new Addchild();
 		obj.div();
-		obj.add(3, 9);
 		obj.method2();
 		System.out.println("The result of addition = " +d);
 		
